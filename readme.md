@@ -18,3 +18,6 @@
 ## git remote add origin 远程地址名字
 1.本地仓库关联到远程仓库
 ## git remote rm origin 删除连接名字
+
+## git merge 
+在当前模块 使用这个命令吧分支和到这个分支

@@ -14,3 +14,7 @@
 
 ## git diff 文件名
 1.查看文件变更信息
+
+## git remote add origin 远程地址名字
+1.本地仓库关联到远程仓库
+## git remote rm origin 删除连接名字
